@@ -1,0 +1,16 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project MapleSimV2)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/alphakelo/Downloads/MapleSimV2/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/alphakelo/Downloads/MapleSimV2/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
